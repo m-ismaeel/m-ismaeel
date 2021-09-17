@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-ismaeel
+- 👋 Hi, I’m Ismaeel.
 - 👀 I’m interested in Coding & Learn New stuff everyday.
 - 🌱 I’m currently learning React Native.
 - 📫 Reach me at <a href="https://wa.me/+923159807707">+92 (315) 980 7707</a>
